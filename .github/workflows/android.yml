@@ -27,4 +27,3 @@ jobs:
         with:
           name: apk
           path: platforms/android/app/build/outputs/apk/debug/*.apk
-E
